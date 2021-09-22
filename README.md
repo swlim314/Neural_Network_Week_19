@@ -35,11 +35,13 @@ was unable to increase the model performance to hit the 75% requirement.
 
 
 ![AlphabetSoupCharity_Optimization1](https://github.com/swlim314/Neural_Network_Week_19/blob/538fe9b7930aa0f2ac9926508873ff792a4ab705/AlphabetSoupCharity_Optimization1.png)
+**Optimization 1**
 
 ![AlphabetSoupCharity_Optimization2](https://github.com/swlim314/Neural_Network_Week_19/blob/538fe9b7930aa0f2ac9926508873ff792a4ab705/AlphabetSoupCharity_Optimization2.png)
+**Optimization 2**
 
 ![AlphabetSoupCharity_Optimization3](https://github.com/swlim314/Neural_Network_Week_19/blob/538fe9b7930aa0f2ac9926508873ff792a4ab705/AlphabetSoupCharity_Optimization3.png)
-
+**Optimization 3**
 
 ## Summary
 Overall the original neural network was very close to that 75% requirement. With a few more optimization, the predictive accuracy could have been increased to give a better idea
