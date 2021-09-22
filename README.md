@@ -19,6 +19,8 @@ This data was preproccessed to prepare for the training and running of a neural 
 predictive accuracy higher. 
 
 ## Results
+The results were stored in the file AlphabetSoupCharity_Base_And_Optimization.
+
 For Data Preprocessing:
 1. What variable(s) are considered the target(s) for your model? Based on the columns provided in the CSV, the target variable that would indicate sucess is the "IS_SUCCESSFUL"
 column, which shows if the money was used effectively.
